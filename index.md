@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub 
 
 
 
-# Welcome to GITHUB
+## Welcome to GITHUB PAGES
 ## NAME: N.J.DINAKARAN
 ### REG NO:21MIS1194
 
