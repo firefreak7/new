@@ -8,4 +8,4 @@
 
 This is how you can create  your github webpages!
 
-                                               ### THANK YOU
+                                               THANK YOU
